@@ -9,9 +9,9 @@ os.makedirs("results", exist_ok=True)
 
 # Configure aqui os modelos que deseja avaliar
 MODELS_CONFIG = [
-    {"provider": "openai", "model": "gpt-4o-mini"},
+    # {"provider": "openai", "model": "gpt-4o-mini"},
     # {"provider": "gemini", "model": "gemini-2.0-flash"},
-    # {"provider": "groq", "model": "llama-3.3-70b-versatile"},
+    {"provider": "groq", "model": "openai/gpt-oss-120b"},
 ]
 
 def run_all(benchmark_path="data/benchmark.json", output_path="results/raw_outputs.jsonl", limit=None):
