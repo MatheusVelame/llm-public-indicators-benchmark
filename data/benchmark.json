@@ -1,0 +1,807 @@
+[
+  {
+    "id": "Q001",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'PIB (USD correntes)' (NY.GDP.MKTP.CD) para o país Germany no ano de 2022 segundo o Banco Mundial?",
+    "ground_truth": 4201021706478.62,
+    "metadata": {
+      "country": "Germany",
+      "indicator": "NY.GDP.MKTP.CD",
+      "year": 2022
+    }
+  },
+  {
+    "id": "Q002",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'PIB (USD correntes)' (NY.GDP.MKTP.CD) para o país Nigeria no ano de 2023 segundo o Banco Mundial?",
+    "ground_truth": 487387801877.803,
+    "metadata": {
+      "country": "Nigeria",
+      "indicator": "NY.GDP.MKTP.CD",
+      "year": 2023
+    }
+  },
+  {
+    "id": "Q003",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'Acesso à eletricidade (% da população)' (EG.ELC.ACCS.ZS) para o país Japan no ano de 2020 segundo o Banco Mundial?",
+    "ground_truth": 100.0,
+    "metadata": {
+      "country": "Japan",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "year": 2020
+    }
+  },
+  {
+    "id": "Q004",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'População total' (SP.POP.TOTL) para o país Germany no ano de 2023 segundo o Banco Mundial?",
+    "ground_truth": 83287273.0,
+    "metadata": {
+      "country": "Germany",
+      "indicator": "SP.POP.TOTL",
+      "year": 2023
+    }
+  },
+  {
+    "id": "Q005",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'Acesso à eletricidade (% da população)' (EG.ELC.ACCS.ZS) para o país India no ano de 2022 segundo o Banco Mundial?",
+    "ground_truth": 99.2,
+    "metadata": {
+      "country": "India",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "year": 2022
+    }
+  },
+  {
+    "id": "Q006",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'PIB (USD correntes)' (NY.GDP.MKTP.CD) para o país Switzerland no ano de 2020 segundo o Banco Mundial?",
+    "ground_truth": 756096180222.082,
+    "metadata": {
+      "country": "Switzerland",
+      "indicator": "NY.GDP.MKTP.CD",
+      "year": 2020
+    }
+  },
+  {
+    "id": "Q007",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'PIB (USD correntes)' (NY.GDP.MKTP.CD) para o país India no ano de 2023 segundo o Banco Mundial?",
+    "ground_truth": 3500906030644.76,
+    "metadata": {
+      "country": "India",
+      "indicator": "NY.GDP.MKTP.CD",
+      "year": 2023
+    }
+  },
+  {
+    "id": "Q008",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'População total' (SP.POP.TOTL) para o país Brazil no ano de 2021 segundo o Banco Mundial?",
+    "ground_truth": 209550294.0,
+    "metadata": {
+      "country": "Brazil",
+      "indicator": "SP.POP.TOTL",
+      "year": 2021
+    }
+  },
+  {
+    "id": "Q009",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'População total' (SP.POP.TOTL) para o país United States no ano de 2018 segundo o Banco Mundial?",
+    "ground_truth": 328529577.0,
+    "metadata": {
+      "country": "United States",
+      "indicator": "SP.POP.TOTL",
+      "year": 2018
+    }
+  },
+  {
+    "id": "Q010",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'População total' (SP.POP.TOTL) para o país South Africa no ano de 2019 segundo o Banco Mundial?",
+    "ground_truth": 59587885.0,
+    "metadata": {
+      "country": "South Africa",
+      "indicator": "SP.POP.TOTL",
+      "year": 2019
+    }
+  },
+  {
+    "id": "Q011",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'População total' (SP.POP.TOTL) para o país Japan no ano de 2020 segundo o Banco Mundial?",
+    "ground_truth": 126261000.0,
+    "metadata": {
+      "country": "Japan",
+      "indicator": "SP.POP.TOTL",
+      "year": 2020
+    }
+  },
+  {
+    "id": "Q012",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'Acesso à eletricidade (% da população)' (EG.ELC.ACCS.ZS) para o país Kenya no ano de 2020 segundo o Banco Mundial?",
+    "ground_truth": 71.5,
+    "metadata": {
+      "country": "Kenya",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "year": 2020
+    }
+  },
+  {
+    "id": "Q013",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'População total' (SP.POP.TOTL) para o país Brazil no ano de 2020 segundo o Banco Mundial?",
+    "ground_truth": 208660842.0,
+    "metadata": {
+      "country": "Brazil",
+      "indicator": "SP.POP.TOTL",
+      "year": 2020
+    }
+  },
+  {
+    "id": "Q014",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'Acesso à eletricidade (% da população)' (EG.ELC.ACCS.ZS) para o país Germany no ano de 2019 segundo o Banco Mundial?",
+    "ground_truth": 100.0,
+    "metadata": {
+      "country": "Germany",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "year": 2019
+    }
+  },
+  {
+    "id": "Q015",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'PIB (USD correntes)' (NY.GDP.MKTP.CD) para o país Nigeria no ano de 2020 segundo o Banco Mundial?",
+    "ground_truth": 598586817817.392,
+    "metadata": {
+      "country": "Nigeria",
+      "indicator": "NY.GDP.MKTP.CD",
+      "year": 2020
+    }
+  },
+  {
+    "id": "Q016",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'PIB (USD correntes)' (NY.GDP.MKTP.CD) para o país Switzerland no ano de 2019 segundo o Banco Mundial?",
+    "ground_truth": 736384764156.877,
+    "metadata": {
+      "country": "Switzerland",
+      "indicator": "NY.GDP.MKTP.CD",
+      "year": 2019
+    }
+  },
+  {
+    "id": "Q017",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'PIB (USD correntes)' (NY.GDP.MKTP.CD) para o país United States no ano de 2020 segundo o Banco Mundial?",
+    "ground_truth": 21375281000000.0,
+    "metadata": {
+      "country": "United States",
+      "indicator": "NY.GDP.MKTP.CD",
+      "year": 2020
+    }
+  },
+  {
+    "id": "Q018",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'Acesso à eletricidade (% da população)' (EG.ELC.ACCS.ZS) para o país Argentina no ano de 2018 segundo o Banco Mundial?",
+    "ground_truth": 100.0,
+    "metadata": {
+      "country": "Argentina",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "year": 2018
+    }
+  },
+  {
+    "id": "Q019",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'População total' (SP.POP.TOTL) para o país Kenya no ano de 2023 segundo o Banco Mundial?",
+    "ground_truth": 55339003.0,
+    "metadata": {
+      "country": "Kenya",
+      "indicator": "SP.POP.TOTL",
+      "year": 2023
+    }
+  },
+  {
+    "id": "Q020",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'PIB (USD correntes)' (NY.GDP.MKTP.CD) para o país South Africa no ano de 2021 segundo o Banco Mundial?",
+    "ground_truth": 419986284375.368,
+    "metadata": {
+      "country": "South Africa",
+      "indicator": "NY.GDP.MKTP.CD",
+      "year": 2021
+    }
+  },
+  {
+    "id": "Q021",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'População total' (SP.POP.TOTL) para o país Kenya no ano de 2022 segundo o Banco Mundial?",
+    "ground_truth": 54252461.0,
+    "metadata": {
+      "country": "Kenya",
+      "indicator": "SP.POP.TOTL",
+      "year": 2022
+    }
+  },
+  {
+    "id": "Q022",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'Acesso à eletricidade (% da população)' (EG.ELC.ACCS.ZS) para o país Argentina no ano de 2023 segundo o Banco Mundial?",
+    "ground_truth": 100.0,
+    "metadata": {
+      "country": "Argentina",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "year": 2023
+    }
+  },
+  {
+    "id": "Q023",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'Acesso à eletricidade (% da população)' (EG.ELC.ACCS.ZS) para o país Germany no ano de 2018 segundo o Banco Mundial?",
+    "ground_truth": 100.0,
+    "metadata": {
+      "country": "Germany",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "year": 2018
+    }
+  },
+  {
+    "id": "Q024",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'PIB (USD correntes)' (NY.GDP.MKTP.CD) para o país Japan no ano de 2023 segundo o Banco Mundial?",
+    "ground_truth": 4384854269961.93,
+    "metadata": {
+      "country": "Japan",
+      "indicator": "NY.GDP.MKTP.CD",
+      "year": 2023
+    }
+  },
+  {
+    "id": "Q025",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'PIB (USD correntes)' (NY.GDP.MKTP.CD) para o país Brazil no ano de 2020 segundo o Banco Mundial?",
+    "ground_truth": 1476107231310.49,
+    "metadata": {
+      "country": "Brazil",
+      "indicator": "NY.GDP.MKTP.CD",
+      "year": 2020
+    }
+  },
+  {
+    "id": "Q026",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'Acesso à eletricidade (% da população)' (EG.ELC.ACCS.ZS) para o país United States no ano de 2019 segundo o Banco Mundial?",
+    "ground_truth": 100.0,
+    "metadata": {
+      "country": "United States",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "year": 2019
+    }
+  },
+  {
+    "id": "Q027",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'População total' (SP.POP.TOTL) para o país Argentina no ano de 2023 segundo o Banco Mundial?",
+    "ground_truth": 45538401.0,
+    "metadata": {
+      "country": "Argentina",
+      "indicator": "SP.POP.TOTL",
+      "year": 2023
+    }
+  },
+  {
+    "id": "Q028",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'PIB (USD correntes)' (NY.GDP.MKTP.CD) para o país Germany no ano de 2023 segundo o Banco Mundial?",
+    "ground_truth": 4562207532490.28,
+    "metadata": {
+      "country": "Germany",
+      "indicator": "NY.GDP.MKTP.CD",
+      "year": 2023
+    }
+  },
+  {
+    "id": "Q029",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'Acesso à eletricidade (% da população)' (EG.ELC.ACCS.ZS) para o país India no ano de 2019 segundo o Banco Mundial?",
+    "ground_truth": 95.9,
+    "metadata": {
+      "country": "India",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "year": 2019
+    }
+  },
+  {
+    "id": "Q030",
+    "category": "exact_value",
+    "answerable": true,
+    "question": "Qual foi o valor do indicador 'Acesso à eletricidade (% da população)' (EG.ELC.ACCS.ZS) para o país United States no ano de 2018 segundo o Banco Mundial?",
+    "ground_truth": 100.0,
+    "metadata": {
+      "country": "United States",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "year": 2018
+    }
+  },
+  {
+    "id": "Q031",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'Acesso à eletricidade (% da população)' para Argentina?",
+    "ground_truth": 0.0,
+    "metadata": {
+      "country": "Argentina",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q032",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'PIB (USD correntes)' para Argentina?",
+    "ground_truth": 124641795598.9979,
+    "metadata": {
+      "country": "Argentina",
+      "indicator": "NY.GDP.MKTP.CD",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q033",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'População total' para Argentina?",
+    "ground_truth": 883519.0,
+    "metadata": {
+      "country": "Argentina",
+      "indicator": "SP.POP.TOTL",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q034",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'Acesso à eletricidade (% da população)' para Brazil?",
+    "ground_truth": 0.1,
+    "metadata": {
+      "country": "Brazil",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q035",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'PIB (USD correntes)' para Brazil?",
+    "ground_truth": 274197867673.6399,
+    "metadata": {
+      "country": "Brazil",
+      "indicator": "NY.GDP.MKTP.CD",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q036",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'População total' para Brazil?",
+    "ground_truth": 5033468.0,
+    "metadata": {
+      "country": "Brazil",
+      "indicator": "SP.POP.TOTL",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q037",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'Acesso à eletricidade (% da população)' para Germany?",
+    "ground_truth": 0.0,
+    "metadata": {
+      "country": "Germany",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q038",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'PIB (USD correntes)' para Germany?",
+    "ground_truth": 506774317188.3203,
+    "metadata": {
+      "country": "Germany",
+      "indicator": "NY.GDP.MKTP.CD",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q039",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'População total' para Germany?",
+    "ground_truth": 381491.0,
+    "metadata": {
+      "country": "Germany",
+      "indicator": "SP.POP.TOTL",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q040",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'Acesso à eletricidade (% da população)' para India?",
+    "ground_truth": 3.8,
+    "metadata": {
+      "country": "India",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q041",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'PIB (USD correntes)' para India?",
+    "ground_truth": 797976388996.0195,
+    "metadata": {
+      "country": "India",
+      "indicator": "NY.GDP.MKTP.CD",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q042",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'População total' para India?",
+    "ground_truth": 63410532.0,
+    "metadata": {
+      "country": "India",
+      "indicator": "SP.POP.TOTL",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q043",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'Acesso à eletricidade (% da população)' para Japan?",
+    "ground_truth": 0.0,
+    "metadata": {
+      "country": "Japan",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q044",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'PIB (USD correntes)' para Japan?",
+    "ground_truth": -769439451667.6294,
+    "metadata": {
+      "country": "Japan",
+      "indicator": "NY.GDP.MKTP.CD",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q045",
+    "category": "temporal_comparison",
+    "answerable": true,
+    "question": "Qual foi a diferença absoluta (valor de 2023 menos o valor de 2018) do indicador 'População total' para Japan?",
+    "ground_truth": -2294350.0,
+    "metadata": {
+      "country": "Japan",
+      "indicator": "SP.POP.TOTL",
+      "years": [
+        2018,
+        2023
+      ]
+    }
+  },
+  {
+    "id": "Q046",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'Acesso à eletricidade (% da população)' para Argentina considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 100.0,
+    "metadata": {
+      "country": "Argentina",
+      "indicator": "EG.ELC.ACCS.ZS"
+    }
+  },
+  {
+    "id": "Q047",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'PIB (USD correntes)' para Argentina considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 521389102358.7761,
+    "metadata": {
+      "country": "Argentina",
+      "indicator": "NY.GDP.MKTP.CD"
+    }
+  },
+  {
+    "id": "Q048",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'População total' para Argentina considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 45179816.3333,
+    "metadata": {
+      "country": "Argentina",
+      "indicator": "SP.POP.TOTL"
+    }
+  },
+  {
+    "id": "Q049",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'Acesso à eletricidade (% da população)' para Brazil considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 99.75,
+    "metadata": {
+      "country": "Brazil",
+      "indicator": "EG.ELC.ACCS.ZS"
+    }
+  },
+  {
+    "id": "Q050",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'PIB (USD correntes)' para Brazil considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 1846672073509.0032,
+    "metadata": {
+      "country": "Brazil",
+      "indicator": "NY.GDP.MKTP.CD"
+    }
+  },
+  {
+    "id": "Q051",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'População total' para Brazil considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 208870166.6667,
+    "metadata": {
+      "country": "Brazil",
+      "indicator": "SP.POP.TOTL"
+    }
+  },
+  {
+    "id": "Q052",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'Acesso à eletricidade (% da população)' para Germany considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 100.0,
+    "metadata": {
+      "country": "Germany",
+      "indicator": "EG.ELC.ACCS.ZS"
+    }
+  },
+  {
+    "id": "Q053",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'PIB (USD correntes)' para Germany considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 4179201359799.1313,
+    "metadata": {
+      "country": "Germany",
+      "indicator": "NY.GDP.MKTP.CD"
+    }
+  },
+  {
+    "id": "Q054",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'População total' para Germany considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 83136796.5,
+    "metadata": {
+      "country": "Germany",
+      "indicator": "SP.POP.TOTL"
+    }
+  },
+  {
+    "id": "Q055",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'Acesso à eletricidade (% da população)' para India considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 97.7333,
+    "metadata": {
+      "country": "India",
+      "indicator": "EG.ELC.ACCS.ZS"
+    }
+  },
+  {
+    "id": "Q056",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'PIB (USD correntes)' para India considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 3021917103785.483,
+    "metadata": {
+      "country": "India",
+      "indicator": "NY.GDP.MKTP.CD"
+    }
+  },
+  {
+    "id": "Q057",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'População total' para India considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 1407333962.5,
+    "metadata": {
+      "country": "India",
+      "indicator": "SP.POP.TOTL"
+    }
+  },
+  {
+    "id": "Q058",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'Acesso à eletricidade (% da população)' para Japan considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 100.0,
+    "metadata": {
+      "country": "Japan",
+      "indicator": "EG.ELC.ACCS.ZS"
+    }
+  },
+  {
+    "id": "Q059",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'PIB (USD correntes)' para Japan considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 4941335043963.964,
+    "metadata": {
+      "country": "Japan",
+      "indicator": "NY.GDP.MKTP.CD"
+    }
+  },
+  {
+    "id": "Q060",
+    "category": "aggregation_mean",
+    "answerable": true,
+    "question": "Qual foi a média do indicador 'População total' para Japan considerando os dados disponíveis entre 2018 e 2023?",
+    "ground_truth": 125838038.6667,
+    "metadata": {
+      "country": "Japan",
+      "indicator": "SP.POP.TOTL"
+    }
+  },
+  {
+    "id": "Q061",
+    "category": "unanswerable_future",
+    "answerable": false,
+    "question": "Qual foi o valor oficial consolidado do PIB (NY.GDP.MKTP.CD) para Brasil no ano de 2029 segundo o Banco Mundial?",
+    "ground_truth": null,
+    "metadata": {
+      "country": "Brasil",
+      "year": 2029
+    }
+  },
+  {
+    "id": "Q062",
+    "category": "unanswerable_future",
+    "answerable": false,
+    "question": "Qual foi o valor oficial consolidado do PIB (NY.GDP.MKTP.CD) para Suíça no ano de 2029 segundo o Banco Mundial?",
+    "ground_truth": null,
+    "metadata": {
+      "country": "Suíça",
+      "year": 2029
+    }
+  },
+  {
+    "id": "Q063",
+    "category": "unanswerable_future",
+    "answerable": false,
+    "question": "Qual foi o valor oficial consolidado do PIB (NY.GDP.MKTP.CD) para Nigéria no ano de 2029 segundo o Banco Mundial?",
+    "ground_truth": null,
+    "metadata": {
+      "country": "Nigéria",
+      "year": 2029
+    }
+  },
+  {
+    "id": "Q064",
+    "category": "unanswerable_future",
+    "answerable": false,
+    "question": "Qual foi o valor oficial consolidado do PIB (NY.GDP.MKTP.CD) para Índia no ano de 2029 segundo o Banco Mundial?",
+    "ground_truth": null,
+    "metadata": {
+      "country": "Índia",
+      "year": 2029
+    }
+  },
+  {
+    "id": "Q065",
+    "category": "unanswerable_future",
+    "answerable": false,
+    "question": "Qual foi o valor oficial consolidado do PIB (NY.GDP.MKTP.CD) para Japão no ano de 2029 segundo o Banco Mundial?",
+    "ground_truth": null,
+    "metadata": {
+      "country": "Japão",
+      "year": 2029
+    }
+  }
+]

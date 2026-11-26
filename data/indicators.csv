@@ -1,0 +1,181 @@
+country_code,country_name,indicator_code,indicator_name,year,value
+ARG,Argentina,NY.GDP.MKTP.CD,PIB (USD correntes),2023,649461687959.174
+ARG,Argentina,NY.GDP.MKTP.CD,PIB (USD correntes),2022,633993756301.08
+ARG,Argentina,NY.GDP.MKTP.CD,PIB (USD correntes),2021,486564085480.036
+ARG,Argentina,NY.GDP.MKTP.CD,PIB (USD correntes),2020,385740508436.965
+ARG,Argentina,NY.GDP.MKTP.CD,PIB (USD correntes),2019,447754683615.225
+ARG,Argentina,NY.GDP.MKTP.CD,PIB (USD correntes),2018,524819892360.176
+BRA,Brazil,NY.GDP.MKTP.CD,PIB (USD correntes),2023,2191131765684.63
+BRA,Brazil,NY.GDP.MKTP.CD,PIB (USD correntes),2022,1951923942083.32
+BRA,Brazil,NY.GDP.MKTP.CD,PIB (USD correntes),2021,1670647398904.9
+BRA,Brazil,NY.GDP.MKTP.CD,PIB (USD correntes),2020,1476107231310.49
+BRA,Brazil,NY.GDP.MKTP.CD,PIB (USD correntes),2019,1873288205059.69
+BRA,Brazil,NY.GDP.MKTP.CD,PIB (USD correntes),2018,1916933898010.99
+CHE,Switzerland,NY.GDP.MKTP.CD,PIB (USD correntes),2023,928435275851.707
+CHE,Switzerland,NY.GDP.MKTP.CD,PIB (USD correntes),2022,858479038993.75
+CHE,Switzerland,NY.GDP.MKTP.CD,PIB (USD correntes),2021,840710023481.35
+CHE,Switzerland,NY.GDP.MKTP.CD,PIB (USD correntes),2020,756096180222.082
+CHE,Switzerland,NY.GDP.MKTP.CD,PIB (USD correntes),2019,736384764156.877
+CHE,Switzerland,NY.GDP.MKTP.CD,PIB (USD correntes),2018,740766531453.991
+DEU,Germany,NY.GDP.MKTP.CD,PIB (USD correntes),2023,4562207532490.28
+DEU,Germany,NY.GDP.MKTP.CD,PIB (USD correntes),2022,4201021706478.62
+DEU,Germany,NY.GDP.MKTP.CD,PIB (USD correntes),2021,4355251953410.78
+DEU,Germany,NY.GDP.MKTP.CD,PIB (USD correntes),2020,3941398957073.94
+DEU,Germany,NY.GDP.MKTP.CD,PIB (USD correntes),2019,3959894794039.21
+DEU,Germany,NY.GDP.MKTP.CD,PIB (USD correntes),2018,4055433215301.96
+IND,India,NY.GDP.MKTP.CD,PIB (USD correntes),2023,3500906030644.76
+IND,India,NY.GDP.MKTP.CD,PIB (USD correntes),2022,3249938492013.47
+IND,India,NY.GDP.MKTP.CD,PIB (USD correntes),2021,3167270623260.47
+IND,India,NY.GDP.MKTP.CD,PIB (USD correntes),2020,2674851578587.27
+IND,India,NY.GDP.MKTP.CD,PIB (USD correntes),2019,2835606256558.19
+IND,India,NY.GDP.MKTP.CD,PIB (USD correntes),2018,2702929641648.74
+JPN,Japan,NY.GDP.MKTP.CD,PIB (USD correntes),2023,4384854269961.93
+JPN,Japan,NY.GDP.MKTP.CD,PIB (USD correntes),2022,4447976207314.78
+JPN,Japan,NY.GDP.MKTP.CD,PIB (USD correntes),2021,5225933520753.1
+JPN,Japan,NY.GDP.MKTP.CD,PIB (USD correntes),2020,5189197543645.38
+JPN,Japan,NY.GDP.MKTP.CD,PIB (USD correntes),2019,5245755000479.03
+JPN,Japan,NY.GDP.MKTP.CD,PIB (USD correntes),2018,5154293721629.56
+KEN,Kenya,NY.GDP.MKTP.CD,PIB (USD correntes),2023,107500884685.013
+KEN,Kenya,NY.GDP.MKTP.CD,PIB (USD correntes),2022,114448978152.637
+KEN,Kenya,NY.GDP.MKTP.CD,PIB (USD correntes),2021,109703658904.994
+KEN,Kenya,NY.GDP.MKTP.CD,PIB (USD correntes),2020,100657505750.545
+KEN,Kenya,NY.GDP.MKTP.CD,PIB (USD correntes),2019,100378436207.371
+KEN,Kenya,NY.GDP.MKTP.CD,PIB (USD correntes),2018,92202979985.2863
+NGA,Nigeria,NY.GDP.MKTP.CD,PIB (USD correntes),2023,487387801877.803
+NGA,Nigeria,NY.GDP.MKTP.CD,PIB (USD correntes),2022,646950257575.455
+NGA,Nigeria,NY.GDP.MKTP.CD,PIB (USD correntes),2021,609147716965.348
+NGA,Nigeria,NY.GDP.MKTP.CD,PIB (USD correntes),2020,598586817817.392
+NGA,Nigeria,NY.GDP.MKTP.CD,PIB (USD correntes),2019,668219992686.575
+NGA,Nigeria,NY.GDP.MKTP.CD,PIB (USD correntes),2018,421739251509.08
+USA,United States,NY.GDP.MKTP.CD,PIB (USD correntes),2023,27811517000000.0
+USA,United States,NY.GDP.MKTP.CD,PIB (USD correntes),2022,26054614000000.0
+USA,United States,NY.GDP.MKTP.CD,PIB (USD correntes),2021,23725645000000.0
+USA,United States,NY.GDP.MKTP.CD,PIB (USD correntes),2020,21375281000000.0
+USA,United States,NY.GDP.MKTP.CD,PIB (USD correntes),2019,21539982000000.0
+USA,United States,NY.GDP.MKTP.CD,PIB (USD correntes),2018,20656516000000.0
+ZAF,South Africa,NY.GDP.MKTP.CD,PIB (USD correntes),2023,381440724491.232
+ZAF,South Africa,NY.GDP.MKTP.CD,PIB (USD correntes),2022,407596043067.885
+ZAF,South Africa,NY.GDP.MKTP.CD,PIB (USD correntes),2021,419986284375.368
+ZAF,South Africa,NY.GDP.MKTP.CD,PIB (USD correntes),2020,337974655408.055
+ZAF,South Africa,NY.GDP.MKTP.CD,PIB (USD correntes),2019,389330032224.269
+ZAF,South Africa,NY.GDP.MKTP.CD,PIB (USD correntes),2018,405260723892.517
+ARG,Argentina,SP.POP.TOTL,População total,2023,45538401.0
+ARG,Argentina,SP.POP.TOTL,População total,2022,45407904.0
+ARG,Argentina,SP.POP.TOTL,População total,2021,45312281.0
+ARG,Argentina,SP.POP.TOTL,População total,2020,45191965.0
+ARG,Argentina,SP.POP.TOTL,População total,2019,44973465.0
+ARG,Argentina,SP.POP.TOTL,População total,2018,44654882.0
+BRA,Brazil,SP.POP.TOTL,População total,2023,211140729.0
+BRA,Brazil,SP.POP.TOTL,População total,2022,210306415.0
+BRA,Brazil,SP.POP.TOTL,População total,2021,209550294.0
+BRA,Brazil,SP.POP.TOTL,População total,2020,208660842.0
+BRA,Brazil,SP.POP.TOTL,População total,2019,207455459.0
+BRA,Brazil,SP.POP.TOTL,População total,2018,206107261.0
+CHE,Switzerland,SP.POP.TOTL,População total,2023,8888822.0
+CHE,Switzerland,SP.POP.TOTL,População total,2022,8777088.0
+CHE,Switzerland,SP.POP.TOTL,População total,2021,8704546.0
+CHE,Switzerland,SP.POP.TOTL,População total,2020,8638167.0
+CHE,Switzerland,SP.POP.TOTL,População total,2019,8575280.0
+CHE,Switzerland,SP.POP.TOTL,População total,2018,8514329.0
+DEU,Germany,SP.POP.TOTL,População total,2023,83287273.0
+DEU,Germany,SP.POP.TOTL,População total,2022,83177813.0
+DEU,Germany,SP.POP.TOTL,População total,2021,83196078.0
+DEU,Germany,SP.POP.TOTL,População total,2020,83160871.0
+DEU,Germany,SP.POP.TOTL,População total,2019,83092962.0
+DEU,Germany,SP.POP.TOTL,População total,2018,82905782.0
+IND,India,SP.POP.TOTL,População total,2023,1438069596.0
+IND,India,SP.POP.TOTL,População total,2022,1425423212.0
+IND,India,SP.POP.TOTL,População total,2021,1414203896.0
+IND,India,SP.POP.TOTL,População total,2020,1402617695.0
+IND,India,SP.POP.TOTL,População total,2019,1389030312.0
+IND,India,SP.POP.TOTL,População total,2018,1374659064.0
+JPN,Japan,SP.POP.TOTL,População total,2023,124516650.0
+JPN,Japan,SP.POP.TOTL,População total,2022,125124989.0
+JPN,Japan,SP.POP.TOTL,População total,2021,125681593.0
+JPN,Japan,SP.POP.TOTL,População total,2020,126261000.0
+JPN,Japan,SP.POP.TOTL,População total,2019,126633000.0
+JPN,Japan,SP.POP.TOTL,População total,2018,126811000.0
+KEN,Kenya,SP.POP.TOTL,População total,2023,55339003.0
+KEN,Kenya,SP.POP.TOTL,População total,2022,54252461.0
+KEN,Kenya,SP.POP.TOTL,População total,2021,53219166.0
+KEN,Kenya,SP.POP.TOTL,População total,2020,52217334.0
+KEN,Kenya,SP.POP.TOTL,População total,2019,51202827.0
+KEN,Kenya,SP.POP.TOTL,População total,2018,50207107.0
+NGA,Nigeria,SP.POP.TOTL,População total,2023,227882945.0
+NGA,Nigeria,SP.POP.TOTL,População total,2022,223150896.0
+NGA,Nigeria,SP.POP.TOTL,População total,2021,218529286.0
+NGA,Nigeria,SP.POP.TOTL,População total,2020,213996181.0
+NGA,Nigeria,SP.POP.TOTL,População total,2019,209485641.0
+NGA,Nigeria,SP.POP.TOTL,População total,2018,204938755.0
+USA,United States,SP.POP.TOTL,População total,2023,336755052.0
+USA,United States,SP.POP.TOTL,População total,2022,333996304.0
+USA,United States,SP.POP.TOTL,População total,2021,332100166.0
+USA,United States,SP.POP.TOTL,População total,2020,331578104.0
+USA,United States,SP.POP.TOTL,População total,2019,330226227.0
+USA,United States,SP.POP.TOTL,População total,2018,328529577.0
+ZAF,South Africa,SP.POP.TOTL,População total,2023,63212384.0
+ZAF,South Africa,SP.POP.TOTL,População total,2022,62378410.0
+ZAF,South Africa,SP.POP.TOTL,População total,2021,61502603.0
+ZAF,South Africa,SP.POP.TOTL,População total,2020,60562381.0
+ZAF,South Africa,SP.POP.TOTL,População total,2019,59587885.0
+ZAF,South Africa,SP.POP.TOTL,População total,2018,58613001.0
+ARG,Argentina,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2023,100.0
+ARG,Argentina,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2022,100.0
+ARG,Argentina,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2021,100.0
+ARG,Argentina,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2020,100.0
+ARG,Argentina,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2019,100.0
+ARG,Argentina,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2018,100.0
+BRA,Brazil,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2023,99.8
+BRA,Brazil,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2022,100.0
+BRA,Brazil,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2021,99.5
+BRA,Brazil,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2020,99.7
+BRA,Brazil,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2019,99.8
+BRA,Brazil,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2018,99.7
+CHE,Switzerland,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2023,100.0
+CHE,Switzerland,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2022,100.0
+CHE,Switzerland,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2021,100.0
+CHE,Switzerland,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2020,100.0
+CHE,Switzerland,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2019,100.0
+CHE,Switzerland,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2018,100.0
+DEU,Germany,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2023,100.0
+DEU,Germany,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2022,100.0
+DEU,Germany,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2021,100.0
+DEU,Germany,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2020,100.0
+DEU,Germany,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2019,100.0
+DEU,Germany,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2018,100.0
+IND,India,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2023,99.5
+IND,India,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2022,99.2
+IND,India,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2021,99.6
+IND,India,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2020,96.5
+IND,India,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2019,95.9
+IND,India,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2018,95.7
+JPN,Japan,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2023,100.0
+JPN,Japan,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2022,100.0
+JPN,Japan,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2021,100.0
+JPN,Japan,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2020,100.0
+JPN,Japan,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2019,100.0
+JPN,Japan,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2018,100.0
+KEN,Kenya,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2023,76.2
+KEN,Kenya,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2022,76.0
+KEN,Kenya,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2021,76.5
+KEN,Kenya,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2020,71.5
+KEN,Kenya,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2019,69.7
+KEN,Kenya,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2018,61.2
+NGA,Nigeria,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2023,61.2
+NGA,Nigeria,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2022,60.5
+NGA,Nigeria,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2021,59.5
+NGA,Nigeria,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2020,55.4
+NGA,Nigeria,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2019,55.4
+NGA,Nigeria,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2018,56.5
+USA,United States,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2023,100.0
+USA,United States,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2022,100.0
+USA,United States,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2021,100.0
+USA,United States,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2020,100.0
+USA,United States,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2019,100.0
+USA,United States,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2018,100.0
+ZAF,South Africa,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2023,87.7
+ZAF,South Africa,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2022,86.5
+ZAF,South Africa,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2021,89.3
+ZAF,South Africa,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2020,90.0
+ZAF,South Africa,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2019,85.0
+ZAF,South Africa,EG.ELC.ACCS.ZS,Acesso à eletricidade (% da população),2018,84.7

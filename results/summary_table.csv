@@ -1,0 +1,4 @@
+model,strategy,accuracy,hallucination_rate,citation_hallucination_rate,median_era,avg_latency_s,calibrated_uncertainty
+gpt-4o-mini,rag,0.0,1.0,0.0,1.0,0.0,0.0
+gpt-4o-mini,tool_use,0.0,1.0,0.0,1.0,0.0,0.0
+gpt-4o-mini,zero_shot,0.0,1.0,0.0,1.0,0.0,0.0
